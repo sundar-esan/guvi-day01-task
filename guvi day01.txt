@@ -1,0 +1,35 @@
+ 1)Write a blog on Difference between HTTP1.1 vs HTTP2
+
+ HTTP1.1
+A. Domain Sharding
+B. Image Sprites
+c. Concatenation/Minification
+
+ HTTP2
+A.Compress HTTP Headers
+B.Allows Server Push
+C.Enables Multiplexing
+
+ 2)Write a blog about objects and its internal representation in Javascript
+
+   Ojects are nothing but colleciton of key value pair.
+     
+       syntax:
+                  
+             var <object-name>={key1:value1,
+                                key2:value2,...
+                                .........
+                                keyN:valueN}
+
+
+   Objects, in JavaScript, it is most important data-type and forms the building blocks 
+for modern JavaScript. These objects are quite different from JavaScript's primitive 
+data-types(Number,String,Boolean,null,undefined and symbol) in the sense that while these
+primitive data-types all store a single value each.
+
+  var car="Mercedes"; objects are varibale too.But objects can contain many values.
+
+    var car= {make:"mercedes",
+              model:"c-class",
+              color:"white",
+              fuel:"diesel"}
